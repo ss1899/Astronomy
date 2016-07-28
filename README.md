@@ -1,5 +1,5 @@
 # Astronomy Website
-## Name: Shefali Satpathy 
+
 ### Project Description: Create a website using HTML/CSS and JavaScript on Astronomy related topics 
 
 
